@@ -1,0 +1,819 @@
+[
+  {
+    "name": "时光老头",
+    "star": "5",
+    "role": [
+      "秘术师"
+    ],
+    "race": [
+      "猩红之月"
+    ],
+    "attack": "45",
+    "firstMagic": "100",
+    "maxMagic": "150",
+    "dsc": ""
+  },
+  {
+    "name": "烬",
+    "star": "4",
+    "role": [
+      "神射手"
+    ],
+    "race": [
+      "猩红之月"
+    ],
+    "attack": "85",
+    "firstMagic": "0",
+    "maxMagic": "0",
+    "dsc": ""
+  },
+  {
+    "name": "剑魔",
+    "star": "4",
+    "role": [
+      "重装战士"
+    ],
+    "race": [
+      "猩红之月"
+    ],
+    "attack": "60",
+    "firstMagic": "75",
+    "maxMagic": "150",
+    "dsc": ""
+  },
+  {
+    "name": "复仇之矛",
+    "star": "3",
+    "role": [
+      "决斗大师"
+    ],
+    "race": [
+      "猩红之月"
+    ],
+    "attack": "65",
+    "firstMagic": "0",
+    "maxMagic": "0",
+    "dsc": ""
+  },
+  {
+    "name": "隐身痛苦之拥",
+    "star": "3",
+    "role": [
+      "夜影"
+    ],
+    "race": [
+      "猩红之月"
+    ],
+    "attack": "70",
+    "firstMagic": "0",
+    "maxMagic": "60",
+    "dsc": ""
+  },
+  {
+    "name": "派克",
+    "star": "2",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "猩红之月"
+    ],
+    "attack": "50",
+    "firstMagic": "75",
+    "maxMagic": "125",
+    "dsc": ""
+  },
+  {
+    "name": "蜘蛛",
+    "star": "1",
+    "role": [
+      "神盾使"
+    ],
+    "race": [
+      "猩红之月"
+    ],
+    "attack": "45",
+    "firstMagic": "0",
+    "maxMagic": "75",
+    "dsc": ""
+  },
+  {
+    "name": "卡牌",
+    "star": "1",
+    "role": [
+      "魔法师"
+    ],
+    "race": [
+      "猩红之月"
+    ],
+    "attack": "45",
+    "firstMagic": "0",
+    "maxMagic": "70",
+    "dsc": ""
+  },
+  {
+    "name": "盲僧瞎子",
+    "star": "5",
+    "role": [
+      "决斗大师"
+    ],
+    "race": [
+      "天神"
+    ],
+    "attack": "60",
+    "firstMagic": "0",
+    "maxMagic": "50",
+    "dsc": ""
+  },
+  {
+    "name": "狼人",
+    "star": "4",
+    "role": [
+      "斗士",
+      "猎人"
+    ],
+    "race": [
+      "天神"
+    ],
+    "attack": "70",
+    "firstMagic": "0",
+    "maxMagic": "70",
+    "dsc": ""
+  },
+  {
+    "name": "刀妹",
+    "star": "3",
+    "role": [
+      "宗师"
+    ],
+    "race": [
+      "天神",
+      "玉剑仙"
+    ],
+    "attack": "55",
+    "firstMagic": "50",
+    "maxMagic": "100",
+    "dsc": ""
+  },
+  {
+    "name": "光辉",
+    "star": "3",
+    "role": [
+      "耀光使"
+    ],
+    "race": [
+      "天神"
+    ],
+    "attack": "40",
+    "firstMagic": "40",
+    "maxMagic": "100",
+    "dsc": ""
+  },
+  {
+    "name": "武器",
+    "star": "2",
+    "role": [
+      "决斗大师"
+    ],
+    "race": [
+      "天神"
+    ],
+    "attack": "60",
+    "firstMagic": "50",
+    "maxMagic": "125",
+    "dsc": ""
+  },
+  {
+    "name": "猴子",
+    "star": "1",
+    "role": [
+      "重装战士"
+    ],
+    "race": [
+      "天神"
+    ],
+    "attack": "55",
+    "firstMagic": "0",
+    "maxMagic": "50",
+    "dsc": ""
+  },
+  {
+    "name": "魔法莉利娅",
+    "star": "5",
+    "role": [
+      "魔法师"
+    ],
+    "race": [
+      "夜幽莲华"
+    ],
+    "attack": "40",
+    "firstMagic": "75",
+    "maxMagic": "125",
+    "dsc": ""
+  },
+  {
+    "name": "锐雯",
+    "star": "4",
+    "role": [
+      "神盾使"
+    ],
+    "race": [
+      "夜幽莲华"
+    ],
+    "attack": "70",
+    "firstMagic": "0",
+    "maxMagic": "20",
+    "dsc": ""
+  },
+  {
+    "name": "蛇女",
+    "star": "4",
+    "role": [
+      "秘术师"
+    ],
+    "race": [
+      "夜幽莲华"
+    ],
+    "attack": "55",
+    "firstMagic": "60",
+    "maxMagic": "120",
+    "dsc": ""
+  },
+  {
+    "name": "锤石",
+    "star": "2",
+    "role": [
+      "重装战士"
+    ],
+    "race": [
+      "夜幽莲华"
+    ],
+    "attack": "60",
+    "firstMagic": "50",
+    "maxMagic": "100",
+    "dsc": ""
+  },
+  {
+    "name": "薇恩",
+    "star": "1",
+    "role": [
+      "神射手"
+    ],
+    "race": [
+      "夜幽莲华"
+    ],
+    "attack": "40",
+    "firstMagic": "0",
+    "maxMagic": "0",
+    "dsc": ""
+  },
+  {
+    "name": "狐狸",
+    "star": "4",
+    "role": [
+      "魔法师"
+    ],
+    "race": [
+      "明昼莲华"
+    ],
+    "attack": "40",
+    "firstMagic": "0",
+    "maxMagic": "80",
+    "dsc": ""
+  },
+  {
+    "name": "猫咪优米",
+    "star": "3",
+    "role": [
+      "秘术师"
+    ],
+    "race": [
+      "明昼莲华"
+    ],
+    "attack": "40",
+    "firstMagic": "0",
+    "maxMagic": "40",
+    "dsc": ""
+  },
+  {
+    "name": "千珏",
+    "star": "3",
+    "role": [
+      "猎人"
+    ],
+    "race": [
+      "明昼莲华"
+    ],
+    "attack": "70",
+    "firstMagic": "0",
+    "maxMagic": "35",
+    "dsc": ""
+  },
+  {
+    "name": "提莫",
+    "star": "2",
+    "role": [
+      "神射手"
+    ],
+    "race": [
+      "明昼莲华"
+    ],
+    "attack": "55",
+    "firstMagic": "0",
+    "maxMagic": "60",
+    "dsc": ""
+  },
+  {
+    "name": "慎",
+    "star": "4",
+    "role": [
+      "宗师",
+      "秘术师"
+    ],
+    "race": [
+      "忍者"
+    ],
+    "attack": "60",
+    "firstMagic": "60",
+    "maxMagic": "120",
+    "dsc": ""
+  },
+  {
+    "name": "凯南",
+    "star": "3",
+    "role": [
+      "神盾使"
+    ],
+    "race": [
+      "忍者"
+    ],
+    "attack": "60",
+    "firstMagic": "50",
+    "maxMagic": "125",
+    "dsc": ""
+  },
+  {
+    "name": "阿卡丽",
+    "star": "4",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "忍者"
+    ],
+    "attack": "55",
+    "firstMagic": "0",
+    "maxMagic": "20",
+    "dsc": ""
+  },
+  {
+    "name": "劫",
+    "star": "2",
+    "role": [
+      "夜影"
+    ],
+    "race": [
+      "忍者"
+    ],
+    "attack": "55",
+    "firstMagic": "0",
+    "maxMagic": "0",
+    "dsc": ""
+  },
+  {
+    "name": "亚索",
+    "star": "1",
+    "role": [
+      "决斗大师"
+    ],
+    "race": [
+      "浪人"
+    ],
+    "attack": "50",
+    "firstMagic": "0",
+    "maxMagic": "45",
+    "dsc": ""
+  },
+  {
+    "name": "永恩",
+    "star": "5",
+    "role": [
+      "宗师"
+    ],
+    "race": [
+      "浪人"
+    ],
+    "attack": "80",
+    "firstMagic": "0",
+    "maxMagic": "100",
+    "dsc": ""
+  },
+  {
+    "name": "男刀",
+    "star": "4",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "玉剑仙"
+    ],
+    "attack": "90",
+    "firstMagic": "0",
+    "maxMagic": "50",
+    "dsc": ""
+  },
+  {
+    "name": "莫甘娜",
+    "star": "4",
+    "role": [
+      "耀光使"
+    ],
+    "race": [
+      "玉剑仙"
+    ],
+    "attack": "50",
+    "firstMagic": "60",
+    "maxMagic": "120",
+    "dsc": ""
+  },
+  {
+    "name": "风女",
+    "star": "2",
+    "role": [
+      "秘术师"
+    ],
+    "race": [
+      "玉剑仙"
+    ],
+    "attack": "40",
+    "firstMagic": "30",
+    "maxMagic": "60",
+    "dsc": ""
+  },
+  {
+    "name": "娜美人鱼",
+    "star": "1",
+    "role": [
+      "魔法师"
+    ],
+    "race": [
+      "玉剑仙"
+    ],
+    "attack": "40",
+    "firstMagic": "40",
+    "maxMagic": "80",
+    "dsc": ""
+  },
+  {
+    "name": "剑姬",
+    "star": "1",
+    "role": [
+      "决斗大师"
+    ],
+    "race": [
+      "玉剑仙"
+    ],
+    "attack": "45",
+    "firstMagic": "0",
+    "maxMagic": "85",
+    "dsc": ""
+  },
+  {
+    "name": "皇鸡",
+    "star": "5",
+    "role": [
+      "枭雄",
+      "神盾使"
+    ],
+    "race": [
+      "三国猛将"
+    ],
+    "attack": "70",
+    "firstMagic": "50",
+    "maxMagic": "125",
+    "dsc": ""
+  },
+  {
+    "name": "赵信",
+    "star": "3",
+    "role": [
+      "决斗大师"
+    ],
+    "race": [
+      "三国猛将"
+    ],
+    "attack": "65",
+    "firstMagic": "0",
+    "maxMagic": "50",
+    "dsc": ""
+  },
+  {
+    "name": "卡特琳娜",
+    "star": "3",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "三国猛将",
+      "福星"
+    ],
+    "attack": "65",
+    "firstMagic": "0",
+    "maxMagic": "90",
+    "dsc": ""
+  },
+  {
+    "name": "蔚",
+    "star": "2",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "三国猛将"
+    ],
+    "attack": "65",
+    "firstMagic": "0",
+    "maxMagic": "60",
+    "dsc": ""
+  },
+  {
+    "name": "皇子",
+    "star": "2",
+    "role": [
+      "神盾使"
+    ],
+    "race": [
+      "三国猛将"
+    ],
+    "attack": "60",
+    "firstMagic": "60",
+    "maxMagic": "120",
+    "dsc": ""
+  },
+  {
+    "name": "豹女",
+    "star": "1",
+    "role": [
+      "神射手"
+    ],
+    "race": [
+      "三国猛将"
+    ],
+    "attack": "45",
+    "firstMagic": "0",
+    "maxMagic": "80",
+    "dsc": ""
+  },
+  {
+    "name": "盖伦",
+    "star": "1",
+    "role": [
+      "重装战士"
+    ],
+    "race": [
+      "三国猛将"
+    ],
+    "attack": "50",
+    "firstMagic": "0",
+    "maxMagic": "100",
+    "dsc": ""
+  },
+  {
+    "name": "猪妹",
+    "star": "4",
+    "role": [
+      "重装战士"
+    ],
+    "race": [
+      "福星"
+    ],
+    "attack": "45",
+    "firstMagic": "50",
+    "maxMagic": "130",
+    "dsc": ""
+  },
+  {
+    "name": "金克丝",
+    "star": "3",
+    "role": [
+      "神射手"
+    ],
+    "race": [
+      "福星"
+    ],
+    "attack": "75",
+    "firstMagic": "0",
+    "maxMagic": "50",
+    "dsc": ""
+  },
+  {
+    "name": "火女",
+    "star": "2",
+    "role": [
+      "魔法师"
+    ],
+    "race": [
+      "福星"
+    ],
+    "attack": "45",
+    "firstMagic": "0",
+    "maxMagic": "65",
+    "dsc": ""
+  },
+  {
+    "name": "塔姆",
+    "star": "1",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "福星"
+    ],
+    "attack": "85",
+    "firstMagic": "0",
+    "maxMagic": "0",
+    "dsc": ""
+  },
+  {
+    "name": "铁链",
+    "star": "2",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "月神"
+    ],
+    "attack": "70",
+    "firstMagic": "30",
+    "maxMagic": "60",
+    "dsc": ""
+  },
+  {
+    "name": "厄文琉斯？",
+    "star": "2",
+    "role": [
+      "猎人"
+    ],
+    "race": [
+      "月神"
+    ],
+    "attack": "45",
+    "firstMagic": "120",
+    "maxMagic": "180",
+    "dsc": ""
+  },
+  {
+    "name": "皎月",
+    "star": "1",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "月神"
+    ],
+    "attack": "50",
+    "firstMagic": "0",
+    "maxMagic": "70",
+    "dsc": ""
+  },
+  {
+    "name": "冰女",
+    "star": "1",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "月神"
+    ],
+    "attack": "40",
+    "firstMagic": "0",
+    "maxMagic": "50",
+    "dsc": ""
+  },
+  {
+    "name": "俯卧撑",
+    "star": "5",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "霸王"
+    ],
+    "attack": "60",
+    "firstMagic": "50",
+    "maxMagic": "126",
+    "dsc": ""
+  },
+  {
+    "name": "凯隐",
+    "star": "5",
+    "role": [
+      "夜影"
+    ],
+    "race": [
+      "天煞"
+    ],
+    "attack": "80",
+    "firstMagic": "0",
+    "maxMagic": "50",
+    "dsc": ""
+  },
+  {
+    "name": "EZ黄毛",
+    "star": "5",
+    "role": [
+      "耀光使"
+    ],
+    "race": [
+      "永恒之森"
+    ],
+    "attack": "80",
+    "firstMagic": "75",
+    "maxMagic": "150",
+    "dsc": ""
+  },
+  {
+    "name": "寒冰",
+    "star": "4",
+    "role": [
+      "猎人"
+    ],
+    "race": [
+      "永恒之森"
+    ],
+    "attack": "80",
+    "firstMagic": "0",
+    "maxMagic": "30",
+    "dsc": ""
+  },
+  {
+    "name": "小法师",
+    "star": "3",
+    "role": [
+      "魔法师"
+    ],
+    "race": [
+      "永恒之森"
+    ],
+    "attack": "40",
+    "firstMagic": "0",
+    "maxMagic": "45",
+    "dsc": ""
+  },
+  {
+    "name": "雪人",
+    "star": "3",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "永恒之森"
+    ],
+    "attack": "65",
+    "firstMagic": "0",
+    "maxMagic": "85",
+    "dsc": ""
+  },
+  {
+    "name": "露露",
+    "star": "2",
+    "role": [
+      "魔法师"
+    ],
+    "race": [
+      "永恒之森"
+    ],
+    "attack": "50",
+    "firstMagic": "60",
+    "maxMagic": "120",
+    "dsc": ""
+  },
+  {
+    "name": "人马",
+    "star": "2",
+    "role": [
+      "重装战士"
+    ],
+    "race": [
+      "永恒之森"
+    ],
+    "attack": "55",
+    "firstMagic": "0",
+    "maxMagic": "120",
+    "dsc": ""
+  },
+  {
+    "name": "大树",
+    "star": "1",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "永恒之森"
+    ],
+    "attack": "55",
+    "firstMagic": "0",
+    "maxMagic": "75",
+    "dsc": ""
+  }
+]

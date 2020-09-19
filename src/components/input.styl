@@ -1,0 +1,41 @@
+.input-box
+  margin-bottom 700px
+.heroList
+  border 1px solid #c9c9c9
+  border-radius: 4px
+  // padding 8px
+.th 
+  font-weight 700
+.hero-item + .hero-item
+  border-top 1px solid #c9c9c9
+.hero-item
+  display flex
+  height 45px
+  line-height 45px
+  .col
+    padding 0 2px
+    box-sizing: border-box
+  .col + .col
+    border-left 1px solid #c9c9c9
+  .col input:focus
+    border-color: deeppink;
+  .col input
+    width calc(100% - 8px)
+    border: none;
+    outline: none
+    height 30px
+  .col:nth-child(1)
+    width 200px
+  .col:nth-child(2),
+  .col:nth-child(3),
+  .col:nth-child(4),
+  .col:nth-child(5)
+    width 80px
+  .col:nth-child(n + 6)
+    flex-grow: 1
+  .col select
+    border: none
+    width 100%
+    min-width 100px
+    height 30px
+      
