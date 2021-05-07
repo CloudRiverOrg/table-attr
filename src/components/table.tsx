@@ -1,5 +1,5 @@
 import { h, ref, reactive, onMounted } from 'vue';
-import heroData from '../old-data.json'
+import heroData from '../old-data2.json'
 import { HereDTO, RACE_LIST, ROLE_LIST, Role } from './type';
 import './table.styl'
 

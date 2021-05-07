@@ -1,0 +1,827 @@
+[
+  {
+    "name": "吸血鬼",
+    "star": "1",
+    "role": [
+      "复苏者"
+    ],
+    "race": [
+      "黑夜使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "狼人",
+    "star": "1",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "破败军团"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "vn",
+    "star": "1",
+    "role": [
+      "游侠"
+    ],
+    "race": [
+      "破败军团"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "波比",
+    "star": "1",
+    "role": [
+      "骑士"
+    ],
+    "race": [
+      "小恶魔"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "乌迪尔",
+    "star": "1",
+    "role": [
+      "神盾战士"
+    ],
+    "race": [
+      "龙族"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "酒桶",
+    "star": "1",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "黎明使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "日女",
+    "star": "1",
+    "role": [
+      "骑士"
+    ],
+    "race": [
+      "圣光卫\b士"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "炸弹人",
+    "star": "1",
+    "role": [
+      "法师"
+    ],
+    "race": [
+      "小恶魔"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "小鱼人",
+    "star": "1",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "黎明使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "冰女",
+    "star": "1",
+    "role": [
+      "复苏者"
+    ],
+    "race": [
+      "魔女"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "克烈",
+    "star": "1",
+    "role": [
+      "重骑兵"
+    ],
+    "race": [
+      "小恶魔"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "剑魔",
+    "star": "1",
+    "role": [
+      "征服者"
+    ],
+    "race": [
+      "圣光卫\b士"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "卡莉斯塔",
+    "star": "1",
+    "role": [
+      "征服者"
+    ],
+    "race": [
+      "丧尸"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "乐芙兰",
+    "star": "2",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "魔女"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "索拉卡",
+    "star": "2",
+    "role": [
+      "复苏者"
+    ],
+    "race": [
+      "黎明使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "巨魔",
+    "star": "2",
+    "role": [
+      "神盾战士"
+    ],
+    "race": [
+      "屠龙"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "火男",
+    "star": "2",
+    "role": [
+      "法师"
+    ],
+    "race": [
+      "丧尸"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "凯南",
+    "star": "2",
+    "role": [
+      "神盾战士"
+    ],
+    "race": [
+      "小恶魔"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "韦鲁斯",
+    "star": "2",
+    "role": [
+      "游侠"
+    ],
+    "race": [
+      "圣光卫\b士"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "泰坦",
+    "star": "2",
+    "role": [
+      "骑士"
+    ],
+    "race": [
+      "铁甲卫士"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "维克托",
+    "star": "2",
+    "role": [
+      "法师"
+    ],
+    "race": [
+      "破败军团"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "猪妹",
+    "star": "2",
+    "role": [
+      "重骑兵"
+    ],
+    "race": [
+      "黑夜使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "人马",
+    "star": "2",
+    "role": [
+      "重骑兵"
+    ],
+    "race": [
+      "破败军团"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "球女",
+    "star": "2",
+    "role": [
+      "神谕者"
+    ],
+    "race": [
+      "圣光卫\b士"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "锤石",
+    "star": "2",
+    "role": [
+      "骑士"
+    ],
+    "race": [
+      "破败军团"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "万豪",
+    "star": "2",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "龙族"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "努努",
+    "star": "3",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "丧尸"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "寒冰",
+    "star": "3",
+    "role": [
+      "游侠"
+    ],
+    "race": [
+      "神佑之森",
+      "龙族"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "莫甘娜",
+    "star": "3",
+    "role": [
+      "秘术师"
+    ],
+    "race": [
+      "魔女",
+      "黑夜使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "卡特琳娜",
+    "star": "3",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "破败军团"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "魔腾",
+    "star": "3",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "复生亡魂"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "瞎子",
+    "star": "3",
+    "role": [
+      "神盾战士"
+    ],
+    "race": [
+      "黑夜使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "豹女",
+    "star": "3",
+    "role": [
+      "神盾战士"
+    ],
+    "race": [
+      "黎明使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "潘森",
+    "star": "3",
+    "role": [
+      "神盾战士"
+    ],
+    "race": [
+      "屠龙"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "锐雯",
+    "star": "3",
+    "role": [
+      "征服者"
+    ],
+    "race": [
+      "黎明使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "拉克丝",
+    "star": "3",
+    "role": [
+      "秘术师"
+    ],
+    "race": [
+      "圣光卫\b士"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "露露",
+    "star": "3",
+    "role": [
+      "秘术师"
+    ],
+    "race": [
+      "小恶魔"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "捷拉",
+    "star": "3",
+    "role": [
+      "法师"
+    ],
+    "race": [
+      "龙族"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "亚索",
+    "star": "3",
+    "role": [
+      "征服者"
+    ],
+    "race": [
+      "黑夜使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "瑞兹",
+    "star": "4",
+    "role": [
+      "秘术师"
+    ],
+    "race": [
+      "破败军团",
+      "丧尸"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "武器",
+    "star": "4",
+    "role": [
+      "神盾战士"
+    ],
+    "race": [
+      "铁甲卫士"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "卡尔玛",
+    "star": "4",
+    "role": [
+      "神谕者"
+    ],
+    "race": [
+      "黎明使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "宝石塔里克",
+    "star": "4",
+    "role": [
+      "骑士"
+    ],
+    "race": [
+      "神佑之森"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "铁男",
+    "star": "4",
+    "role": [
+      "征服者"
+    ],
+    "race": [
+      "屠龙"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "德拉文",
+    "star": "4",
+    "role": [
+      "征服者"
+    ],
+    "race": [
+      "破败军团"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "皎月",
+    "star": "4",
+    "role": [
+      "刺客"
+    ],
+    "race": [
+      "黑夜使者",
+      "屠龙"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "维克滋",
+    "star": "4",
+    "role": [
+      "法师"
+    ],
+    "race": [
+      "圣光卫\b士"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "翠神",
+    "star": "4",
+    "role": [
+      "神谕者",
+      "复苏者"
+    ],
+    "race": [
+      "复生亡魂"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "鄂妃流失",
+    "star": "4",
+    "role": [
+      "游侠"
+    ],
+    "race": [
+      "黑夜使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "内尔",
+    "star": "4",
+    "role": [
+      "重骑兵"
+    ],
+    "race": [
+      "圣光卫\b士",
+      "铁甲卫士"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "天使",
+    "star": "5",
+    "role": [
+      "征服者"
+    ],
+    "race": [
+      "圣光卫\b士",
+      "神佑之森"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "大头",
+    "star": "5",
+    "role": [
+      "驯龙大师",
+      "复苏者"
+    ],
+    "race": [
+      "龙族"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "盖伦",
+    "star": "5",
+    "role": [
+      "神王",
+      "骑士"
+    ],
+    "race": [
+      "黎明使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "沃利贝尔",
+    "star": "5",
+    "role": [
+      "斗士"
+    ],
+    "race": [
+      "复生亡魂"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "诺手",
+    "star": "5",
+    "role": [
+      "神王",
+      "骑士"
+    ],
+    "race": [
+      "黑夜使者"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "千珏",
+    "star": "5",
+    "role": [
+      "游侠",
+      "秘术师"
+    ],
+    "race": [
+      "永猎双子"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "副业哥",
+    "star": "5",
+    "role": [
+      "刺客",
+      "神盾战士"
+    ],
+    "race": [
+      "破败军团"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  },
+  {
+    "name": "提莫",
+    "star": "6",
+    "role": [
+      "大魔王",
+      "神谕者"
+    ],
+    "race": [
+      "小恶魔"
+    ],
+    "attack": "",
+    "firstMagic": "",
+    "maxMagic": "",
+    "dsc": ""
+  }
+]

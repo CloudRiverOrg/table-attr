@@ -1,5 +1,5 @@
 import { reactive, onMounted } from 'vue'
-import oldData from '../old-data.json';
+import oldData from '../old-data2.json';
 import './input.styl'
 import { HereDTO, Role, Race, ROLE_LIST, RACE_LIST } from './type';
 
